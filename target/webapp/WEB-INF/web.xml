@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+	xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd"
+	id="WebApp_ID" version="3.1">
+	<display-name>Web Application from Archetype for Servlet 3.1</display-name>
+	<welcome-file-list>
+		<welcome-file>index.jsp</welcome-file>
+	</welcome-file-list>
+	
+<servlet>
+	<servlet-name>FirstServlet</servlet-name>
+	<servlet-class>Hello2</servlet-class>
+
+	<servlet-name>SecServlet</servlet-name>
+	<servlet-class>Hello3</servlet-class>
+
+</servlet>
+
+<servlet-mapping>
+	<servlet-name>FirstServlet</servlet-name>
+	<url-pattern>/enes</url-pattern>
+
+
+	<servlet-name>SecServlet</servlet-name>
+	<url-pattern>/enes2</url-pattern>
+
+
+</servlet-mapping>
+
+
+</web-app>
