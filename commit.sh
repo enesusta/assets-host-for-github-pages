@@ -2,4 +2,4 @@
 
 git add .
 git commit -m "feature"
-git push -u origin feature
+git push -u origin assets 
