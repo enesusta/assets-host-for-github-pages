@@ -75,15 +75,15 @@
 <path fill="none" stroke="#000000" d="M200.2242,-215.8314C200.2242,-208.131 200.2242,-198.9743 200.2242,-190.4166"/>
 <polygon fill="#000000" stroke="#000000" points="203.7243,-190.4132 200.2242,-180.4133 196.7243,-190.4133 203.7243,-190.4132"/>
 </g>
-<!-- docker exec &#45;t e46 bash -->
+<!-- docker exec &#45;it e46 bash -->
 <g id="node7" class="node">
-<title>docker exec &#45;t e46 bash</title>
-<polygon fill="none" stroke="#000000" points="278.8233,-108 121.6252,-108 121.6252,-72 278.8233,-72 278.8233,-108"/>
-<text text-anchor="middle" x="200.2242" y="-85.5" font-family="Times,serif" font-size="15.00" fill="#000000">docker exec &#45;t e46 bash</text>
+<title>docker exec &#45;it e46 bash</title>
+<polygon fill="none" stroke="#000000" points="280.9914,-108 119.4571,-108 119.4571,-72 280.9914,-72 280.9914,-108"/>
+<text text-anchor="middle" x="200.2242" y="-85.5" font-family="Times,serif" font-size="15.00" fill="#000000">docker exec &#45;it e46 bash</text>
 </g>
-<!-- docker ps &#45;a ile containerId&#39;yi alirsin, bu ornekte e46247de01c7&#45;&gt;docker exec &#45;t e46 bash -->
+<!-- docker ps &#45;a ile containerId&#39;yi alirsin, bu ornekte e46247de01c7&#45;&gt;docker exec &#45;it e46 bash -->
 <g id="edge6" class="edge">
-<title>docker ps &#45;a ile containerId&#39;yi alirsin, bu ornekte e46247de01c7&#45;&gt;docker exec &#45;t e46 bash</title>
+<title>docker ps &#45;a ile containerId&#39;yi alirsin, bu ornekte e46247de01c7&#45;&gt;docker exec &#45;it e46 bash</title>
 <path fill="none" stroke="#000000" d="M200.2242,-143.8314C200.2242,-136.131 200.2242,-126.9743 200.2242,-118.4166"/>
 <polygon fill="#000000" stroke="#000000" points="203.7243,-118.4132 200.2242,-108.4133 196.7243,-118.4133 203.7243,-118.4132"/>
 </g>
@@ -93,9 +93,9 @@
 <polygon fill="none" stroke="#000000" points="325.9569,-36 74.4916,-36 74.4916,0 325.9569,0 325.9569,-36"/>
 <text text-anchor="middle" x="200.2242" y="-13.5" font-family="Times,serif" font-size="15.00" fill="#000000">boylece interactive bash&#39;in daima hazir</text>
 </g>
-<!-- docker exec &#45;t e46 bash&#45;&gt;boylece interactive bash&#39;in daima hazir -->
+<!-- docker exec &#45;it e46 bash&#45;&gt;boylece interactive bash&#39;in daima hazir -->
 <g id="edge7" class="edge">
-<title>docker exec &#45;t e46 bash&#45;&gt;boylece interactive bash&#39;in daima hazir</title>
+<title>docker exec &#45;it e46 bash&#45;&gt;boylece interactive bash&#39;in daima hazir</title>
 <path fill="none" stroke="#000000" d="M200.2242,-71.8314C200.2242,-64.131 200.2242,-54.9743 200.2242,-46.4166"/>
 <polygon fill="#000000" stroke="#000000" points="203.7243,-46.4132 200.2242,-36.4133 196.7243,-46.4133 203.7243,-46.4132"/>
 </g>
